@@ -1,0 +1,3 @@
+drink 4liters water
+exercise 1hour
+read books 30mins
